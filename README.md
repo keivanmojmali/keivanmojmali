@@ -6,6 +6,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at eros a elit dictu
 
 [![Linkedin Profile](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keivanmojmali)
 
+---
+### Most Recent Projects
+:coffee: Point of Sale and Inventory Management System:
+[Live](https://point-of-sale-mojmali.herokuapp.com/#pos) // 
+[Github](https://github.com/keivanmojmali/point-of-sale-system)
+
+
+:beers: Beer Profile: 
+[Live](https://keivanmojmali.github.io/ajax-project/) // 
+[GitHub](https://github.com/keivanmojmali/ajax-project)
 
 ---
 
@@ -31,12 +41,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at eros a elit dictu
 <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
 ---
-### Most Recent Projects
-:coffee: Point of Sale and Inventory Management System:
-[Live](https://point-of-sale-mojmali.herokuapp.com/#pos) // 
-[Github](https://github.com/keivanmojmali/point-of-sale-system)
-
-
-:beers: Beer Profile: 
-[Live](https://keivanmojmali.github.io/ajax-project/) // 
-[GitHub](https://github.com/keivanmojmali/ajax-project)
