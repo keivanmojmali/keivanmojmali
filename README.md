@@ -29,7 +29,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at eros a elit dictu
 
 ---
 ### Most Recent Projects
-:coffee:[Point of Sale and Inventory Management System](https://point-of-sale-mojmali.herokuapp.com/#pos)
+:coffee: Point of Sale and Inventory Management System:
+
+
+[Live](https://point-of-sale-mojmali.herokuapp.com/#pos) // 
+[Github](https://github.com/keivanmojmali/point-of-sale-system)
 
 
 :beers: [Beer Profile](https://keivanmojmali.github.io/ajax-project/)
