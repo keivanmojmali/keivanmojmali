@@ -1,6 +1,6 @@
 ### Hello! I'm Keivan Mojmali. A Full Stack Web Developer
 
-From Southern California :sunny:. I love
+From Southern California :sunny:. 
 
 :email:[Email Me](mojmalik@gmail.com)
 :page_with_curl:[View Resume](https://github.com/keivanmojmali/keivanmojmali/blob/main/Mojmali-Keivan-Resume.pdf)
