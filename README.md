@@ -26,3 +26,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at eros a elit dictu
 <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+---
+### Most Recent Projects
+:coffee:[Point of Sale and Inventory Management System](https://point-of-sale-mojmali.herokuapp.com/#pos)
+
+
+:beers: [Beer Profile](https://keivanmojmali.github.io/ajax-project/)
