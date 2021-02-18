@@ -12,12 +12,12 @@ From Southern California :sunrise:. Mainly coding in JavaScript, React and build
 ### Most Recent Projects
 :coffee: Point of Sale and Inventory Management System:
 [Live](https://point-of-sale-mojmali.herokuapp.com/#pos) // 
-[Github](https://github.com/keivanmojmali/point-of-sale-system)
+[Source Code](https://github.com/keivanmojmali/point-of-sale-system)
 
 
 :beers: Beer Profile: 
 [Live](https://keivanmojmali.github.io/ajax-project/) // 
-[GitHub](https://github.com/keivanmojmali/ajax-project)
+[Source Code](https://github.com/keivanmojmali/ajax-project)
 
 ---
 
