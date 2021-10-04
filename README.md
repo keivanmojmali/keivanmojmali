@@ -4,7 +4,7 @@ From Southern California :sunrise:. Mainly coding in JavaScript, React and build
 
 
 :email:mojmalik@gmail.com
-:page_with_curl:[View Resume](https://github.com/keivanmojmali/keivanmojmali/blob/main/Mojmali-Keivan-Resume.pdf)
+
 
 [![Linkedin Profile](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keivanmojmali)
 
