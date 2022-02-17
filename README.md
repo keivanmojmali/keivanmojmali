@@ -8,13 +8,6 @@ From Southern California :sunrise:. Mainly coding in JavaScript, React and build
 
 [![Linkedin Profile](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keivanmojmali)
 
----
-### Most Recent Project
-:coffee: Point of Sale and Inventory Management System:
-[Live](https://point-of-sale-mojmali.herokuapp.com/#pos) // 
-[Source Code](https://github.com/keivanmojmali/point-of-sale-system)
-
----
 
 [![Keivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keivanmojmali&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
